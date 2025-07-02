@@ -3,6 +3,5 @@ title: Welcome
 layout: default
 theme: jekyll-theme-minimal
 ---
-# Hello World!
-
-This is my new website using GitHub Pages and a theme.
+# About Seba (Nahuel, he/him)
+Hi, I'm a bi-cultural psychotherapist and computer engineer, originally from Chile and living in the San Francisco Bay Area. 
