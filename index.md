@@ -1,6 +1,7 @@
 ---
 title: Welcome
 layout: default
+theme: jekyll-theme-minimal
 ---
 # Hello World!
 
