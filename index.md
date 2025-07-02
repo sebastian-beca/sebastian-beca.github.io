@@ -3,7 +3,7 @@ title: Sebastian Beca
 description: ""
 layout: default
 ---
-# About Seba (Nahuel, he/him)
+# About Seba
 Hi, I'm a bi-cultural psychotherapist and computer engineer, originally from Chile and living in the San Francisco Bay Area. I'm interested in Psychology, Psychtoherapy, Gestalt, Consciousness, Technology, Music and all things Psychedelic. I am passionate about my work as a Gestalt Therapist specialized in working with Psychedelic-Assisted modalities and happy to share more about this with you.
 
 # Links
