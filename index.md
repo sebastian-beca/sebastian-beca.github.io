@@ -1,5 +1,6 @@
 ---
 title: Sebastian Beca
+description: ""
 layout: default
 ---
 # About Seba (Nahuel, he/him)
