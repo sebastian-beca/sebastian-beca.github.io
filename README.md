@@ -1,4 +1,4 @@
 # sebastian-beca.github.io
-Website
 
-This is a website test
+About Seba (Nahuel, he/him)
+Psychotherapy Practice
